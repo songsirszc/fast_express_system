@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="titlebg">#FFFF8080</color>
+        <color name="texthui">#FF959595</color>
+        <color name="qianhui">#FFA5A5A5</color>
+        <color name="touming">#00FFFFFF</color>
+        <color name="bantouming">#66000000</color>
+            <!-- 定义标准颜色 -->
+    <color name="white">#FFFFFF</color> <!-- 纯白 -->
+    <color name="black">#000000</color> <!-- 纯黑 -->
+    <color name="transparent_color">#00000000</color> <!-- 透明色 -->
+    <color name="spilt_line_color">#CCCCCC</color>
+
+	<!-- 字体颜色标准 -->
+	<color name = "new_color_1">#231815</color><!-- 浅黑 -->
+	<color name = "new_color_4">#CCCCCC</color><!-- 浅灰 -->
+	<color name = "new_color_5">#CD102C</color><!-- 浅红 -->
+	<color name = "new_color_6">#3E8BD4</color><!--  蓝灰色-->
+	
+	<!-- 星字体颜色标准 -->
+	<color name = "color_1">#FFFFFF</color><!-- 纯白 -->
+	<color name = "color_2">#333333</color><!-- 黑色  主要字体颜色 -->
+	<color name = "color_3">#6A6A6A</color><!-- 浅灰 -->
+	<color name = "color_4">#999999</color><!-- 浅浅灰 -->
+	<color name = "color_5">#666666</color><!-- 灰黑   个别 -->
+	
+	<!-- 界面背景颜色 -->
+	<color name = "main_grey">#ededed</color> <!-- 背景 灰白 -->
+	<color name = "main_white">#ededed</color> <!-- 背景 白 -->
+	<color name = "main_red">#FF494B</color> <!-- 背景  浅红 -->
+	  <color name = "main_light_white">#F6F6F6</color> <!-- 浅白 -->
+	<color name = "main_huangbai">#F5F6EB</color> <!-- 黄白 -->
+	<color name = "main_light_huangbai">#FEFFFA</color> <!-- 浅黄白 -->
+	<!-- 按钮颜色 -->
+	<color name = "bt_green">#2ac600</color> <!-- 按钮 浅绿 -->
+	<color name = "bt_red">#ff9293</color> <!-- 按钮 粉红 -->
+	<color name = "bt_light_red">#FF494B</color> <!-- 按钮 浅红-->
+	
+<color name="bggray">#e2e2e2</color><!-- 雾白 -->
+	  <color name = "login_bt_color">#77ba10</color> <!-- 绿 -->
+	  <color name = "login_bt_color_press">#B6E173</color> <!-- 浅绿 -->
+	  <color name="share_back">#FFF2F2F2</color>
+	<color name="share_text">#aaaaaa</color>
+	
+	<!-- huanxin  -->
+	 <color name="common_bg">#fcfcfc</color>
+	  <color name="top_bar_normal_bg">#4ebcd3</color>
+	  <color name="error_item_color">#F6EBE6</color>
+	  <color name="gray_pressed">#b5b5b6</color>
+     <color name="gray_normal">#666667</color>
+         <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+     <color name="btn_gray_normal">#c0c0c0</color>
+    </resources>
